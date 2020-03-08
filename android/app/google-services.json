@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "201233704462",
+    "firebase_url": "https://traveldestination-8e8f4.firebaseio.com",
+    "project_id": "traveldestination-8e8f4",
+    "storage_bucket": "traveldestination-8e8f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201233704462:android:959bad3869ff3f4c81fe5f",
+        "android_client_info": {
+          "package_name": "com.facebook.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201233704462-hu2ti2ovu6g6946dbqv1pf7f0f4epcsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQzCGDtUnL_6M-ob9zvvx5gDVJmZ3KpMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201233704462-hu2ti2ovu6g6946dbqv1pf7f0f4epcsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
